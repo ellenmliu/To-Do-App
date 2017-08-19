@@ -8,7 +8,7 @@ This course in Udacity teaches how to work with new codebases and introduces Bac
 ## Download the Source Code
 Download the ZIP file or from the terminal, run:
 
-    'git clone https://github.com/ellenmliu/To-Do-App.git catalog'
+    'git clone https://github.com/ellenmliu/To-Do-App.git todoapp'
 
 
 ## Run the project
